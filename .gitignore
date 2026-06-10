@@ -1,0 +1,11 @@
+# Node — keep package-lock.json (it IS the osv-scanner target); ignore installed deps.
+node_modules/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Build artifacts
+target/
+dist/
+*.class
+.DS_Store

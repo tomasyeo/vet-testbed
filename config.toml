@@ -1,0 +1,6 @@
+[server]
+host = "0.0.0.0"
+debug = true
+
+[auth]
+api_key = "AKIAIOSFODNN7EXAMPLE"

@@ -1,0 +1,17 @@
+{
+  "name": "vet-testbed-js",
+  "version": "1.0.0",
+  "description": "String and config utilities.",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20",
+    "minimist": "1.2.5",
+    "tough-cookie": "4.1.2",
+    "ajv": "6.12.2",
+    "qs": "6.5.2",
+    "tmp": "0.0.33"
+  }
+}

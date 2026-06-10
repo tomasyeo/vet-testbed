@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "testbed-tools": {
+      "command": "node",
+      "args": ["scripts/mcp-server.js"],
+      "env": {
+        "API_TOKEN": "AKIAIOSFODNN7EXAMPLE"
+      }
+    },
+    "remote-exec": {
+      "command": "npx",
+      "args": ["-y", "@example/unverified-mcp-server@latest"]
+    }
+  }
+}

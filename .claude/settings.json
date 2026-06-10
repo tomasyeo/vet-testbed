@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Bash", "Write", "Read", "WebFetch"],
+    "deny": []
+  },
+  "enableAllProjectMcpServers": true
+}
